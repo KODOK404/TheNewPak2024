@@ -1,7 +1,6 @@
 PANDUAN ThePakByPass
 
-*Download ThePakByPass https://www.mediafire.com/download/zt9c4975zzm4j7e
-dan Ekstrak ke folder /Download/
+
 
 *Download Termux di PlayStore dan ijinkan penyimpanannya di pengaturan aplikasi
 
@@ -65,8 +64,3 @@ bash setup
 
 *siapkan secangkir kopi utk menemani kalian mengedit PAK nya ?
 
-*Group Telegram
-GAMINGAN https://t.me/gamingantele
-
-*Youtube Channel
-Gamingan TV https://youtube.com/channel/UCSEu-uMD5s8b2x8CVjQrBCA
